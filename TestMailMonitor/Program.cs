@@ -8,6 +8,9 @@ namespace TestMailMonitor
 {
     class Program
     {
+        // Used to test MailMonitor
+        // Quit if any keys are pressed
+        // or write any trown exeptions to the command line.
         static void Main()
         {
             try
