@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <section
+            name="appSettings"
+            type="System.Configuration.AppSettingsSection, System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+            />
+    </configSections>
+    <appSettings>
+        <add key="SMTPAddress" value="server.domain.com" />
+        <add key="SMTPPort" value="25" />
+        <add key="TimerInterval" value="30" />
+        <add key="AS400IPaddress" value="0.0.0.0" />
+        <add key="APlusMailPath" value="\\Server\Folder1\Folder2\" />
+        <add key="aplusUser" value="UserName" />
+        <add key="aplusPassword" value="pIklnYVurMoRcjsMIekOGw==" />
+    </appSettings>
+</configuration>
